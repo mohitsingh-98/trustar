@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "87170390835",
+    "firebase_url": "https://trustar-ad3e8.firebaseio.com",
+    "project_id": "trustar-ad3e8",
+    "storage_bucket": "trustar-ad3e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87170390835:android:069229d80db93cc13bfc46",
+        "android_client_info": {
+          "package_name": "com.risingstar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87170390835-o0e9bn7l425rs8m4c73aiuev3daiqqgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.risingstar",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "87170390835-6qbibgu58aooksv1tqunfocsrhhtd9ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADvhl7ERdWCyVR-w9GYzOkECFQ7wDc7K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87170390835-6qbibgu58aooksv1tqunfocsrhhtd9ka.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "87170390835-ghvu64mjp6mtjjbjas57stjecd1moa8e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.GameSmash.TruStar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87170390835:android:14c96d764018b6573bfc46",
+        "android_client_info": {
+          "package_name": "com.trustar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87170390835-aqdjf6e3v8j3vueqm3fa7kngdsnpn130.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trustar",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "87170390835-6qbibgu58aooksv1tqunfocsrhhtd9ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADvhl7ERdWCyVR-w9GYzOkECFQ7wDc7K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87170390835-6qbibgu58aooksv1tqunfocsrhhtd9ka.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "87170390835-ghvu64mjp6mtjjbjas57stjecd1moa8e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.GameSmash.TruStar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

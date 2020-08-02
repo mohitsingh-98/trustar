@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">87170390835-6qbibgu58aooksv1tqunfocsrhhtd9ka.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://trustar-ad3e8.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">87170390835</string>
+    <string name="google_api_key" translatable="false">AIzaSyADvhl7ERdWCyVR-w9GYzOkECFQ7wDc7K0</string>
+    <string name="google_app_id" translatable="false">1:87170390835:android:14c96d764018b6573bfc46</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyADvhl7ERdWCyVR-w9GYzOkECFQ7wDc7K0</string>
+    <string name="google_storage_bucket" translatable="false">trustar-ad3e8.appspot.com</string>
+    <string name="project_id" translatable="false">trustar-ad3e8</string>
+</resources>

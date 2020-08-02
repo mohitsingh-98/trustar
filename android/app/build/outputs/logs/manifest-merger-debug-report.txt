@@ -1,0 +1,890 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:@react-native-firebase_database] /home/nits/Documents/truStar/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:@react-native-firebase_app] /home/nits/Documents/truStar/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.multidex:multidex:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/33c554c2e9ba1bcef26dffa29c50eca0/AndroidManifest.xml:17:1-22:12
+MERGED from [:@react-native-community_async-storage] /home/nits/Documents/truStar/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-community_masked-view] /home/nits/Documents/truStar/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-community_netinfo] /home/nits/Documents/truStar/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-camera] /home/nits/Documents/truStar/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-fast-image] /home/nits/Documents/truStar/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fbsdk] /home/nits/Documents/truStar/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:1-28:12
+MERGED from [:react-native-gesture-handler] /home/nits/Documents/truStar/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-google-signin] /home/nits/Documents/truStar/node_modules/react-native-google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-iap] /home/nits/Documents/truStar/node_modules/react-native-iap/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-crop-picker] /home/nits/Documents/truStar/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-keep-awake] /home/nits/Documents/truStar/node_modules/react-native-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /home/nits/Documents/truStar/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /home/nits/Documents/truStar/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /home/nits/Documents/truStar/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-share] /home/nits/Documents/truStar/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-sound-player] /home/nits/Documents/truStar/node_modules/react-native-sound-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /home/nits/Documents/truStar/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-video] /home/nits/Documents/truStar/node_modules/react-native-video/android-exoplayer/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] /home/nits/Documents/truStar/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/nits/.gradle/caches/transforms-2/files-2.1/cf0173752201f11b58654f61e3077378/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/nits/.gradle/caches/transforms-2/files-2.1/17926b352ddb0cef92303ad340ecfb52/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-sound] /home/nits/Documents/truStar/node_modules/react-native-sound/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.android:facebook-login:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/220efaf44b7b8111a71d342ddcd99028/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/ae9e69992c0e9a708ab82a4e1ee73fde/AndroidManifest.xml:21:1-31:12
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /home/nits/.gradle/caches/transforms-2/files-2.1/9dcde055e63435d77293262dacff7791/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/4e08a26fa63a532016e6fd750432aa75/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:21:1-52:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/f6b4a3a00dbfcc4696483805c63b343d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/ec89fce4525c19e638e8faae845740fe/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/fc802053959dc799f1a52eab86a1d899/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/8a0e09ef952149e53d4243d93e2091c3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/1d5898461bea85ce7d0af4053862219d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/7f74a9e28b0783ddff936603deaf0d7e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/9c25a0d4f8d1dfb48a5abb904899ea50/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/ca0c68fd18ddca7ca924d20f8e36aeb6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/nits/.gradle/caches/transforms-2/files-2.1/96b14bf8c8b44b8739ac3069a595466b/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /home/nits/.gradle/caches/transforms-2/files-2.1/83d7e902ef21ea6c60433b711bf3a990/AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/6c08268461bc3fac524e2b33e5a99200/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.3.0-alpha04] /home/nits/.gradle/caches/transforms-2/files-2.1/417582198a0fb9076f0449941696f563/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/e43a1d70dd1fcb9dd54d46a92d2376ec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/deb290591666a1da7ecb0b1e8b6b7662/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/b7380651503c328d0ad914cc896d7f36/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/091abb85d28c3450c4872d7f3e6482bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/3bbb4e874029b3fb6caab6cc53d7c7c0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/16cdf29fb20cb2cf6ff8b2bc83c84296/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/059b285dcefa5c1b2f00f7a1c99d8cc2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-core:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/ba5fdc679d28c5bd99e5c3445fefafd3/AndroidManifest.xml:21:1-53:12
+MERGED from [com.google.firebase:firebase-core:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/11b08665b042aac6951a8cc2b33e7239/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/60902f06d635fd681c9fb0eaba0ade6d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/99691b117229782ffaf49dba7238def7/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/4fe28687ae3db6c83c0c343199bc531e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/51e240f4a6e8f6747e22620201b54c50/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/be91a31a1e4bcd86811fbe1a2cfce7c7/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/a4508895b7fe74cf6c1d2b03c6847949/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/nits/.gradle/caches/transforms-2/files-2.1/2924ee9b0f054761f0d53a39fa6ed0c9/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/nits/.gradle/caches/transforms-2/files-2.1/6a20d18c6f964d4199bf9fb0fbcf50eb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/nits/.gradle/caches/transforms-2/files-2.1/ee63c36fbaef4a1ae330729cfbc24213/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-database:19.3.1] /home/nits/.gradle/caches/transforms-2/files-2.1/d9f4081532f218b7b2adedd746037fe1/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/nits/.gradle/caches/transforms-2/files-2.1/30db987125bd73827360a006a5f55cb4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/e86bcd978efc30ad46b367cd40ced07d/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/06bb2016d58f29e6e596656851f6552a/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/a2dbfd206e66930b6476b1fd6b02fdee/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /home/nits/.gradle/caches/transforms-2/files-2.1/91340f32096546dfbdf5879a3752f29b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/8b65bc4cd49a6d561b61aa210c34e4b9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/nits/.gradle/caches/transforms-2/files-2.1/3553e6225e0cabb6a81a26fda6783e28/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/dfd2532a2d6246188b295383e1a201de/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/001dd768210007a717c99143cdf1abda/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/b851b62bba173704c1a61b104daae61a/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /home/nits/.gradle/caches/transforms-2/files-2.1/cfa3ef558d3b9dc5ce8bf37afad8f6ae/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/nits/.gradle/caches/transforms-2/files-2.1/966e453fea2c90e535231722b0503d89/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/5dc8c9cd5ee125d011247b7c9ede49fd/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/cf4e7e30493009fbb53ce03b53f1ef03/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b6390fa58e2c2c80b9f9df465dfd1b85/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/f7640fe039ab24e4a0aa15b65c4fe445/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/c4cb782ddf9a546a44a3e90d51e5ca56/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/a68ed45729864daf7404739fcf832db3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/94e9accf3a84b6127d77203914c154bf/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/04172aa003421480edd1c861bf5b5c1c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/e4338dd48aa6fe4079331f1aec959f9b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/d4dbe28ea6926933911f19ebfb7a7f04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/aeed2de8988b64ed428148618f754a34/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/25c3644b2aa2c25ea04e3fe8755fdcac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/44e0cedced29ea90b259b4b3368ea3ad/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/42b1979affac3da9a97c80c16e4d82b0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/dbbd25f5e02f3f83ae9c9427973b09a4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/362cb1b36d6619aa048cd03996a91b5b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/9da3a4cce34cd9da6967a55701037901/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/167c3c2fb2afb959590884f9f95e2aab/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/ae4f4eb843c6501bde88f671e3955fb8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0-alpha01] /home/nits/.gradle/caches/transforms-2/files-2.1/6ded523fa4ced02f9a1d3a2466901d0b/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/2946c86a0e40492d728e39eedd411178/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.billingclient:billing:2.0.3] /home/nits/.gradle/caches/transforms-2/files-2.1/0a0eefc70ae8e9a79741aa99794d76db/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/03d93bd02de69e8b6bb0505b2a77f200/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/3a89fd973c4656c9e1b092ad396470e4/AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/nits/.gradle/caches/transforms-2/files-2.1/1e65e79b64cb93f2752e657fa254ad20/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/7378e42b147454f529df94165725a05f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/e63011c3f7a351995258bbfb948cdad5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/81a09ec2a32989500e0dc1f363f7d1c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/33a3c879c2a3d880faa754d9e7d98f5a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/c21eef5e03732c649d9b0a6fc1c2e7d8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/46a3c5904f9498c5dd96df0f29205c2a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/50a3246c50595d3b2a8d7bae5d1e7a41/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/04e2621a7ed56a8dfcbf52edb2f46fe4/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/f52784c451c7b6cd4e80988118e71afa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/3d94f0e0ae9f8b82e64cd3ef7eea13f2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/4ec5fe74a131d4ad195b10ce34953b7a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/1cc97bf56973b4fbca3615255bc0c65b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/46c97329a0b28cacfab0acec119c3feb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/555c58b9db036a6dae96639383f7ce26/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/fb1c7a3bcdd6c372cca81f7e72a9389f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/018e6eace886c95455b62e096c0b18f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/5c9164e4446884478d34df42294eab30/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/4c9cf8df2d7a1779a0671d01ff9ea6ac/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/bda77264d2b8c8a16ae74c1b2ce5f180/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/nits/Documents/truStar/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/nits/Documents/truStar/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/nits/Documents/truStar/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /home/nits/Documents/truStar/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/nits/Documents/truStar/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/nits/Documents/truStar/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/nits/Documents/truStar/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:@react-native-firebase_database] /home/nits/Documents/truStar/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:@react-native-firebase_database] /home/nits/Documents/truStar/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/99691b117229782ffaf49dba7238def7/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/99691b117229782ffaf49dba7238def7/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/51e240f4a6e8f6747e22620201b54c50/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/51e240f4a6e8f6747e22620201b54c50/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:19.3.1] /home/nits/.gradle/caches/transforms-2/files-2.1/d9f4081532f218b7b2adedd746037fe1/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.3.1] /home/nits/.gradle/caches/transforms-2/files-2.1/d9f4081532f218b7b2adedd746037fe1/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /home/nits/.gradle/caches/transforms-2/files-2.1/cfa3ef558d3b9dc5ce8bf37afad8f6ae/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /home/nits/.gradle/caches/transforms-2/files-2.1/cfa3ef558d3b9dc5ce8bf37afad8f6ae/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b6390fa58e2c2c80b9f9df465dfd1b85/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b6390fa58e2c2c80b9f9df465dfd1b85/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [:react-native-image-crop-picker] /home/nits/Documents/truStar/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-image-crop-picker] /home/nits/Documents/truStar/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-share] /home/nits/Documents/truStar/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-share] /home/nits/Documents/truStar/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /home/nits/Documents/truStar/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /home/nits/Documents/truStar/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/nits/.gradle/caches/transforms-2/files-2.1/cf0173752201f11b58654f61e3077378/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/nits/.gradle/caches/transforms-2/files-2.1/cf0173752201f11b58654f61e3077378/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.android:facebook-login:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/220efaf44b7b8111a71d342ddcd99028/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/220efaf44b7b8111a71d342ddcd99028/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/ae9e69992c0e9a708ab82a4e1ee73fde/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/ae9e69992c0e9a708ab82a4e1ee73fde/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.material:material:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/4e08a26fa63a532016e6fd750432aa75/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/4e08a26fa63a532016e6fd750432aa75/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/nits/.gradle/caches/transforms-2/files-2.1/96b14bf8c8b44b8739ac3069a595466b/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/nits/.gradle/caches/transforms-2/files-2.1/96b14bf8c8b44b8739ac3069a595466b/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /home/nits/.gradle/caches/transforms-2/files-2.1/83d7e902ef21ea6c60433b711bf3a990/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /home/nits/.gradle/caches/transforms-2/files-2.1/83d7e902ef21ea6c60433b711bf3a990/AndroidManifest.xml:10:5-14:19
+MERGED from [com.facebook.android:facebook-core:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/ba5fdc679d28c5bd99e5c3445fefafd3/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/ba5fdc679d28c5bd99e5c3445fefafd3/AndroidManifest.xml:28:5-51:19
+MERGED from [com.google.firebase:firebase-core:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/11b08665b042aac6951a8cc2b33e7239/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/11b08665b042aac6951a8cc2b33e7239/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/60902f06d635fd681c9fb0eaba0ade6d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/60902f06d635fd681c9fb0eaba0ade6d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/99691b117229782ffaf49dba7238def7/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/99691b117229782ffaf49dba7238def7/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/4fe28687ae3db6c83c0c343199bc531e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/4fe28687ae3db6c83c0c343199bc531e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/51e240f4a6e8f6747e22620201b54c50/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/51e240f4a6e8f6747e22620201b54c50/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/be91a31a1e4bcd86811fbe1a2cfce7c7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/be91a31a1e4bcd86811fbe1a2cfce7c7/AndroidManifest.xml:7:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/nits/.gradle/caches/transforms-2/files-2.1/2924ee9b0f054761f0d53a39fa6ed0c9/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/nits/.gradle/caches/transforms-2/files-2.1/2924ee9b0f054761f0d53a39fa6ed0c9/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/nits/.gradle/caches/transforms-2/files-2.1/6a20d18c6f964d4199bf9fb0fbcf50eb/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/nits/.gradle/caches/transforms-2/files-2.1/6a20d18c6f964d4199bf9fb0fbcf50eb/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/nits/.gradle/caches/transforms-2/files-2.1/ee63c36fbaef4a1ae330729cfbc24213/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/nits/.gradle/caches/transforms-2/files-2.1/ee63c36fbaef4a1ae330729cfbc24213/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-database:19.3.1] /home/nits/.gradle/caches/transforms-2/files-2.1/d9f4081532f218b7b2adedd746037fe1/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.3.1] /home/nits/.gradle/caches/transforms-2/files-2.1/d9f4081532f218b7b2adedd746037fe1/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/nits/.gradle/caches/transforms-2/files-2.1/30db987125bd73827360a006a5f55cb4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/nits/.gradle/caches/transforms-2/files-2.1/30db987125bd73827360a006a5f55cb4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/a2dbfd206e66930b6476b1fd6b02fdee/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/a2dbfd206e66930b6476b1fd6b02fdee/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/8b65bc4cd49a6d561b61aa210c34e4b9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/8b65bc4cd49a6d561b61aa210c34e4b9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/dfd2532a2d6246188b295383e1a201de/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/dfd2532a2d6246188b295383e1a201de/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/001dd768210007a717c99143cdf1abda/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/001dd768210007a717c99143cdf1abda/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/b851b62bba173704c1a61b104daae61a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/b851b62bba173704c1a61b104daae61a/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /home/nits/.gradle/caches/transforms-2/files-2.1/cfa3ef558d3b9dc5ce8bf37afad8f6ae/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /home/nits/.gradle/caches/transforms-2/files-2.1/cfa3ef558d3b9dc5ce8bf37afad8f6ae/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/nits/.gradle/caches/transforms-2/files-2.1/966e453fea2c90e535231722b0503d89/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/nits/.gradle/caches/transforms-2/files-2.1/966e453fea2c90e535231722b0503d89/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/cf4e7e30493009fbb53ce03b53f1ef03/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/cf4e7e30493009fbb53ce03b53f1ef03/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/f7640fe039ab24e4a0aa15b65c4fe445/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/f7640fe039ab24e4a0aa15b65c4fe445/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/c4cb782ddf9a546a44a3e90d51e5ca56/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/c4cb782ddf9a546a44a3e90d51e5ca56/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/a68ed45729864daf7404739fcf832db3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/a68ed45729864daf7404739fcf832db3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/94e9accf3a84b6127d77203914c154bf/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/94e9accf3a84b6127d77203914c154bf/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0-alpha01] /home/nits/.gradle/caches/transforms-2/files-2.1/6ded523fa4ced02f9a1d3a2466901d0b/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0-alpha01] /home/nits/.gradle/caches/transforms-2/files-2.1/6ded523fa4ced02f9a1d3a2466901d0b/AndroidManifest.xml:24:5-89
+MERGED from [com.android.billingclient:billing:2.0.3] /home/nits/.gradle/caches/transforms-2/files-2.1/0a0eefc70ae8e9a79741aa99794d76db/AndroidManifest.xml:12:5-21:19
+MERGED from [com.android.billingclient:billing:2.0.3] /home/nits/.gradle/caches/transforms-2/files-2.1/0a0eefc70ae8e9a79741aa99794d76db/AndroidManifest.xml:12:5-21:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/3a89fd973c4656c9e1b092ad396470e4/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/3a89fd973c4656c9e1b092ad396470e4/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/nits/.gradle/caches/transforms-2/files-2.1/1e65e79b64cb93f2752e657fa254ad20/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/nits/.gradle/caches/transforms-2/files-2.1/1e65e79b64cb93f2752e657fa254ad20/AndroidManifest.xml:9:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/bda77264d2b8c8a16ae74c1b2ce5f180/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/bda77264d2b8c8a16ae74c1b2ce5f180/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0-alpha01] /home/nits/.gradle/caches/transforms-2/files-2.1/6ded523fa4ced02f9a1d3a2466901d0b/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-login:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/220efaf44b7b8111a71d342ddcd99028/AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/nits/Documents/truStar/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/nits/Documents/truStar/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/nits/Documents/truStar/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.trustar.MainActivity
+ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:23:17-81
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:24:8-106
+	android:value
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:24:65-104
+	android:name
+		ADDED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml:24:19-64
+uses-sdk
+INJECTED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-firebase_database] /home/nits/Documents/truStar/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-firebase_database] /home/nits/Documents/truStar/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-firebase_app] /home/nits/Documents/truStar/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-firebase_app] /home/nits/Documents/truStar/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/33c554c2e9ba1bcef26dffa29c50eca0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/33c554c2e9ba1bcef26dffa29c50eca0/AndroidManifest.xml:20:5-43
+MERGED from [:@react-native-community_async-storage] /home/nits/Documents/truStar/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /home/nits/Documents/truStar/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /home/nits/Documents/truStar/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /home/nits/Documents/truStar/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_netinfo] /home/nits/Documents/truStar/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_netinfo] /home/nits/Documents/truStar/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /home/nits/Documents/truStar/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /home/nits/Documents/truStar/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fast-image] /home/nits/Documents/truStar/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /home/nits/Documents/truStar/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fbsdk] /home/nits/Documents/truStar/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] /home/nits/Documents/truStar/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-gesture-handler] /home/nits/Documents/truStar/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/nits/Documents/truStar/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /home/nits/Documents/truStar/node_modules/react-native-google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /home/nits/Documents/truStar/node_modules/react-native-google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-iap] /home/nits/Documents/truStar/node_modules/react-native-iap/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-iap] /home/nits/Documents/truStar/node_modules/react-native-iap/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-crop-picker] /home/nits/Documents/truStar/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] /home/nits/Documents/truStar/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-keep-awake] /home/nits/Documents/truStar/node_modules/react-native-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-keep-awake] /home/nits/Documents/truStar/node_modules/react-native-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/nits/Documents/truStar/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/nits/Documents/truStar/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /home/nits/Documents/truStar/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /home/nits/Documents/truStar/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /home/nits/Documents/truStar/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/nits/Documents/truStar/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-share] /home/nits/Documents/truStar/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-share] /home/nits/Documents/truStar/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-sound-player] /home/nits/Documents/truStar/node_modules/react-native-sound-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sound-player] /home/nits/Documents/truStar/node_modules/react-native-sound-player/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/nits/Documents/truStar/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/nits/Documents/truStar/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] /home/nits/Documents/truStar/node_modules/react-native-video/android-exoplayer/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] /home/nits/Documents/truStar/node_modules/react-native-video/android-exoplayer/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /home/nits/Documents/truStar/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /home/nits/Documents/truStar/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/nits/.gradle/caches/transforms-2/files-2.1/cf0173752201f11b58654f61e3077378/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/nits/.gradle/caches/transforms-2/files-2.1/cf0173752201f11b58654f61e3077378/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/nits/.gradle/caches/transforms-2/files-2.1/17926b352ddb0cef92303ad340ecfb52/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/nits/.gradle/caches/transforms-2/files-2.1/17926b352ddb0cef92303ad340ecfb52/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sound] /home/nits/Documents/truStar/node_modules/react-native-sound/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-sound] /home/nits/Documents/truStar/node_modules/react-native-sound/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.android:facebook-login:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/220efaf44b7b8111a71d342ddcd99028/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/220efaf44b7b8111a71d342ddcd99028/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/ae9e69992c0e9a708ab82a4e1ee73fde/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/ae9e69992c0e9a708ab82a4e1ee73fde/AndroidManifest.xml:24:5-26:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /home/nits/.gradle/caches/transforms-2/files-2.1/9dcde055e63435d77293262dacff7791/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /home/nits/.gradle/caches/transforms-2/files-2.1/9dcde055e63435d77293262dacff7791/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/4e08a26fa63a532016e6fd750432aa75/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/4e08a26fa63a532016e6fd750432aa75/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:25:5-27:41
+MERGED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:25:5-27:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/f6b4a3a00dbfcc4696483805c63b343d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/f6b4a3a00dbfcc4696483805c63b343d/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/ec89fce4525c19e638e8faae845740fe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/ec89fce4525c19e638e8faae845740fe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/fc802053959dc799f1a52eab86a1d899/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/fc802053959dc799f1a52eab86a1d899/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/8a0e09ef952149e53d4243d93e2091c3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/8a0e09ef952149e53d4243d93e2091c3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/1d5898461bea85ce7d0af4053862219d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/1d5898461bea85ce7d0af4053862219d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/7f74a9e28b0783ddff936603deaf0d7e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/7f74a9e28b0783ddff936603deaf0d7e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/9c25a0d4f8d1dfb48a5abb904899ea50/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/9c25a0d4f8d1dfb48a5abb904899ea50/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/ca0c68fd18ddca7ca924d20f8e36aeb6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/ca0c68fd18ddca7ca924d20f8e36aeb6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/nits/.gradle/caches/transforms-2/files-2.1/96b14bf8c8b44b8739ac3069a595466b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/nits/.gradle/caches/transforms-2/files-2.1/96b14bf8c8b44b8739ac3069a595466b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /home/nits/.gradle/caches/transforms-2/files-2.1/83d7e902ef21ea6c60433b711bf3a990/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /home/nits/.gradle/caches/transforms-2/files-2.1/83d7e902ef21ea6c60433b711bf3a990/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/6c08268461bc3fac524e2b33e5a99200/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/6c08268461bc3fac524e2b33e5a99200/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.3.0-alpha04] /home/nits/.gradle/caches/transforms-2/files-2.1/417582198a0fb9076f0449941696f563/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0-alpha04] /home/nits/.gradle/caches/transforms-2/files-2.1/417582198a0fb9076f0449941696f563/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/e43a1d70dd1fcb9dd54d46a92d2376ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/e43a1d70dd1fcb9dd54d46a92d2376ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/deb290591666a1da7ecb0b1e8b6b7662/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/deb290591666a1da7ecb0b1e8b6b7662/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/b7380651503c328d0ad914cc896d7f36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/b7380651503c328d0ad914cc896d7f36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/091abb85d28c3450c4872d7f3e6482bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/091abb85d28c3450c4872d7f3e6482bc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/3bbb4e874029b3fb6caab6cc53d7c7c0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/3bbb4e874029b3fb6caab6cc53d7c7c0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/16cdf29fb20cb2cf6ff8b2bc83c84296/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/16cdf29fb20cb2cf6ff8b2bc83c84296/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/059b285dcefa5c1b2f00f7a1c99d8cc2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/059b285dcefa5c1b2f00f7a1c99d8cc2/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-core:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/ba5fdc679d28c5bd99e5c3445fefafd3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/ba5fdc679d28c5bd99e5c3445fefafd3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.firebase:firebase-core:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/11b08665b042aac6951a8cc2b33e7239/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/11b08665b042aac6951a8cc2b33e7239/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/60902f06d635fd681c9fb0eaba0ade6d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/60902f06d635fd681c9fb0eaba0ade6d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/99691b117229782ffaf49dba7238def7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/99691b117229782ffaf49dba7238def7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/4fe28687ae3db6c83c0c343199bc531e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/4fe28687ae3db6c83c0c343199bc531e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/51e240f4a6e8f6747e22620201b54c50/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/51e240f4a6e8f6747e22620201b54c50/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/be91a31a1e4bcd86811fbe1a2cfce7c7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/be91a31a1e4bcd86811fbe1a2cfce7c7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/a4508895b7fe74cf6c1d2b03c6847949/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/a4508895b7fe74cf6c1d2b03c6847949/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/nits/.gradle/caches/transforms-2/files-2.1/2924ee9b0f054761f0d53a39fa6ed0c9/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/nits/.gradle/caches/transforms-2/files-2.1/2924ee9b0f054761f0d53a39fa6ed0c9/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/nits/.gradle/caches/transforms-2/files-2.1/6a20d18c6f964d4199bf9fb0fbcf50eb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/nits/.gradle/caches/transforms-2/files-2.1/6a20d18c6f964d4199bf9fb0fbcf50eb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/nits/.gradle/caches/transforms-2/files-2.1/ee63c36fbaef4a1ae330729cfbc24213/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/nits/.gradle/caches/transforms-2/files-2.1/ee63c36fbaef4a1ae330729cfbc24213/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:19.3.1] /home/nits/.gradle/caches/transforms-2/files-2.1/d9f4081532f218b7b2adedd746037fe1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.3.1] /home/nits/.gradle/caches/transforms-2/files-2.1/d9f4081532f218b7b2adedd746037fe1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/nits/.gradle/caches/transforms-2/files-2.1/30db987125bd73827360a006a5f55cb4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/nits/.gradle/caches/transforms-2/files-2.1/30db987125bd73827360a006a5f55cb4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/e86bcd978efc30ad46b367cd40ced07d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/e86bcd978efc30ad46b367cd40ced07d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/06bb2016d58f29e6e596656851f6552a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/06bb2016d58f29e6e596656851f6552a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/a2dbfd206e66930b6476b1fd6b02fdee/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/a2dbfd206e66930b6476b1fd6b02fdee/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /home/nits/.gradle/caches/transforms-2/files-2.1/91340f32096546dfbdf5879a3752f29b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /home/nits/.gradle/caches/transforms-2/files-2.1/91340f32096546dfbdf5879a3752f29b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/8b65bc4cd49a6d561b61aa210c34e4b9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/8b65bc4cd49a6d561b61aa210c34e4b9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/nits/.gradle/caches/transforms-2/files-2.1/3553e6225e0cabb6a81a26fda6783e28/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/nits/.gradle/caches/transforms-2/files-2.1/3553e6225e0cabb6a81a26fda6783e28/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/dfd2532a2d6246188b295383e1a201de/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/dfd2532a2d6246188b295383e1a201de/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/001dd768210007a717c99143cdf1abda/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/001dd768210007a717c99143cdf1abda/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/b851b62bba173704c1a61b104daae61a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/b851b62bba173704c1a61b104daae61a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /home/nits/.gradle/caches/transforms-2/files-2.1/cfa3ef558d3b9dc5ce8bf37afad8f6ae/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /home/nits/.gradle/caches/transforms-2/files-2.1/cfa3ef558d3b9dc5ce8bf37afad8f6ae/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/nits/.gradle/caches/transforms-2/files-2.1/966e453fea2c90e535231722b0503d89/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/nits/.gradle/caches/transforms-2/files-2.1/966e453fea2c90e535231722b0503d89/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/5dc8c9cd5ee125d011247b7c9ede49fd/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/5dc8c9cd5ee125d011247b7c9ede49fd/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/cf4e7e30493009fbb53ce03b53f1ef03/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/cf4e7e30493009fbb53ce03b53f1ef03/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b6390fa58e2c2c80b9f9df465dfd1b85/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b6390fa58e2c2c80b9f9df465dfd1b85/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/f7640fe039ab24e4a0aa15b65c4fe445/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/f7640fe039ab24e4a0aa15b65c4fe445/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/c4cb782ddf9a546a44a3e90d51e5ca56/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/c4cb782ddf9a546a44a3e90d51e5ca56/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/a68ed45729864daf7404739fcf832db3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/a68ed45729864daf7404739fcf832db3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/94e9accf3a84b6127d77203914c154bf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/94e9accf3a84b6127d77203914c154bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/04172aa003421480edd1c861bf5b5c1c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/04172aa003421480edd1c861bf5b5c1c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/e4338dd48aa6fe4079331f1aec959f9b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/e4338dd48aa6fe4079331f1aec959f9b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/d4dbe28ea6926933911f19ebfb7a7f04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/d4dbe28ea6926933911f19ebfb7a7f04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/aeed2de8988b64ed428148618f754a34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/aeed2de8988b64ed428148618f754a34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/25c3644b2aa2c25ea04e3fe8755fdcac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/25c3644b2aa2c25ea04e3fe8755fdcac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/44e0cedced29ea90b259b4b3368ea3ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/44e0cedced29ea90b259b4b3368ea3ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/42b1979affac3da9a97c80c16e4d82b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/42b1979affac3da9a97c80c16e4d82b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/dbbd25f5e02f3f83ae9c9427973b09a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/dbbd25f5e02f3f83ae9c9427973b09a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/362cb1b36d6619aa048cd03996a91b5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/362cb1b36d6619aa048cd03996a91b5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/9da3a4cce34cd9da6967a55701037901/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/9da3a4cce34cd9da6967a55701037901/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/167c3c2fb2afb959590884f9f95e2aab/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/167c3c2fb2afb959590884f9f95e2aab/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/ae4f4eb843c6501bde88f671e3955fb8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/ae4f4eb843c6501bde88f671e3955fb8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-alpha01] /home/nits/.gradle/caches/transforms-2/files-2.1/6ded523fa4ced02f9a1d3a2466901d0b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-alpha01] /home/nits/.gradle/caches/transforms-2/files-2.1/6ded523fa4ced02f9a1d3a2466901d0b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/2946c86a0e40492d728e39eedd411178/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/2946c86a0e40492d728e39eedd411178/AndroidManifest.xml:20:5-44
+MERGED from [com.android.billingclient:billing:2.0.3] /home/nits/.gradle/caches/transforms-2/files-2.1/0a0eefc70ae8e9a79741aa99794d76db/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.billingclient:billing:2.0.3] /home/nits/.gradle/caches/transforms-2/files-2.1/0a0eefc70ae8e9a79741aa99794d76db/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/03d93bd02de69e8b6bb0505b2a77f200/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/03d93bd02de69e8b6bb0505b2a77f200/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/3a89fd973c4656c9e1b092ad396470e4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/3a89fd973c4656c9e1b092ad396470e4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/nits/.gradle/caches/transforms-2/files-2.1/1e65e79b64cb93f2752e657fa254ad20/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/nits/.gradle/caches/transforms-2/files-2.1/1e65e79b64cb93f2752e657fa254ad20/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/7378e42b147454f529df94165725a05f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/7378e42b147454f529df94165725a05f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/e63011c3f7a351995258bbfb948cdad5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/e63011c3f7a351995258bbfb948cdad5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/81a09ec2a32989500e0dc1f363f7d1c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/81a09ec2a32989500e0dc1f363f7d1c7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/33a3c879c2a3d880faa754d9e7d98f5a/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/33a3c879c2a3d880faa754d9e7d98f5a/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/c21eef5e03732c649d9b0a6fc1c2e7d8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/c21eef5e03732c649d9b0a6fc1c2e7d8/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/46a3c5904f9498c5dd96df0f29205c2a/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/46a3c5904f9498c5dd96df0f29205c2a/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/50a3246c50595d3b2a8d7bae5d1e7a41/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/50a3246c50595d3b2a8d7bae5d1e7a41/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/04e2621a7ed56a8dfcbf52edb2f46fe4/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/04e2621a7ed56a8dfcbf52edb2f46fe4/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/f52784c451c7b6cd4e80988118e71afa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/f52784c451c7b6cd4e80988118e71afa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/3d94f0e0ae9f8b82e64cd3ef7eea13f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/3d94f0e0ae9f8b82e64cd3ef7eea13f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/4ec5fe74a131d4ad195b10ce34953b7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/4ec5fe74a131d4ad195b10ce34953b7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/1cc97bf56973b4fbca3615255bc0c65b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/1cc97bf56973b4fbca3615255bc0c65b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/46c97329a0b28cacfab0acec119c3feb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/46c97329a0b28cacfab0acec119c3feb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/555c58b9db036a6dae96639383f7ce26/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/555c58b9db036a6dae96639383f7ce26/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/fb1c7a3bcdd6c372cca81f7e72a9389f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/fb1c7a3bcdd6c372cca81f7e72a9389f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/018e6eace886c95455b62e096c0b18f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/018e6eace886c95455b62e096c0b18f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/5c9164e4446884478d34df42294eab30/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/5c9164e4446884478d34df42294eab30/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/4c9cf8df2d7a1779a0671d01ff9ea6ac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/4c9cf8df2d7a1779a0671d01ff9ea6ac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/bda77264d2b8c8a16ae74c1b2ce5f180/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/bda77264d2b8c8a16ae74c1b2ce5f180/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/nits/Documents/truStar/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/nits/Documents/truStar/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nits/Documents/truStar/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nits/Documents/truStar/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nits/Documents/truStar/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/nits/Documents/truStar/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/nits/Documents/truStar/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:@react-native-firebase_database] /home/nits/Documents/truStar/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/99691b117229782ffaf49dba7238def7/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/99691b117229782ffaf49dba7238def7/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/51e240f4a6e8f6747e22620201b54c50/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/51e240f4a6e8f6747e22620201b54c50/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b6390fa58e2c2c80b9f9df465dfd1b85/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b6390fa58e2c2c80b9f9df465dfd1b85/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:@react-native-firebase_database] /home/nits/Documents/truStar/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:@react-native-firebase_database] /home/nits/Documents/truStar/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [:@react-native-community_netinfo] /home/nits/Documents/truStar/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:@react-native-community_netinfo] /home/nits/Documents/truStar/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/99691b117229782ffaf49dba7238def7/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/99691b117229782ffaf49dba7238def7/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/51e240f4a6e8f6747e22620201b54c50/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/51e240f4a6e8f6747e22620201b54c50/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:19.3.1] /home/nits/.gradle/caches/transforms-2/files-2.1/d9f4081532f218b7b2adedd746037fe1/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:19.3.1] /home/nits/.gradle/caches/transforms-2/files-2.1/d9f4081532f218b7b2adedd746037fe1/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /home/nits/.gradle/caches/transforms-2/files-2.1/cfa3ef558d3b9dc5ce8bf37afad8f6ae/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /home/nits/.gradle/caches/transforms-2/files-2.1/cfa3ef558d3b9dc5ce8bf37afad8f6ae/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b6390fa58e2c2c80b9f9df465dfd1b85/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b6390fa58e2c2c80b9f9df465dfd1b85/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/50a3246c50595d3b2a8d7bae5d1e7a41/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.3] /home/nits/.gradle/caches/transforms-2/files-2.1/50a3246c50595d3b2a8d7bae5d1e7a41/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:@react-native-firebase_database] /home/nits/Documents/truStar/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:@react-native-community_netinfo] /home/nits/Documents/truStar/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [:@react-native-community_netinfo] /home/nits/Documents/truStar/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-73
+uses-permission#android.permission.CAMERA
+ADDED from [:react-native-camera] /home/nits/Documents/truStar/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:react-native-camera] /home/nits/Documents/truStar/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /home/nits/Documents/truStar/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] /home/nits/Documents/truStar/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] /home/nits/Documents/truStar/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /home/nits/Documents/truStar/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] /home/nits/Documents/truStar/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] /home/nits/Documents/truStar/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalDebug/AndroidManifest.xml:15:9-57
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-image-crop-picker] /home/nits/Documents/truStar/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-share] /home/nits/Documents/truStar/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-81
+MERGED from [:react-native-share] /home/nits/Documents/truStar/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:react-native-image-crop-picker] /home/nits/Documents/truStar/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-78
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] /home/nits/Documents/truStar/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /home/nits/Documents/truStar/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /home/nits/Documents/truStar/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /home/nits/Documents/truStar/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /home/nits/Documents/truStar/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] /home/nits/Documents/truStar/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] /home/nits/Documents/truStar/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] /home/nits/Documents/truStar/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /home/nits/Documents/truStar/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-25:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /home/nits/Documents/truStar/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /home/nits/Documents/truStar/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-60
+provider#cl.json.RNShareFileProvider
+ADDED from [:react-native-share] /home/nits/Documents/truStar/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-share] /home/nits/Documents/truStar/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-share] /home/nits/Documents/truStar/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [:react-native-share] /home/nits/Documents/truStar/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-share] /home/nits/Documents/truStar/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-55
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /home/nits/Documents/truStar/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /home/nits/Documents/truStar/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /home/nits/Documents/truStar/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /home/nits/Documents/truStar/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /home/nits/Documents/truStar/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:30:9-33:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:32:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:31:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:34:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:34:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:35:9-49:20
+	tools:node
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:38:13-31
+	android:exported
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:36:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:39:13-48:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.trustar+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:39:13-48:29
+action#android.intent.action.VIEW
+ADDED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:40:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:42:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:43:17-78
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:43:27-75
+data
+ADDED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:45:17-47:50
+	android:host
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:46:21-56
+	android:scheme
+		ADDED from [com.facebook.android:facebook-common:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/b8ac16f3e9468a0d20e2fcc8bd74ce44/AndroidManifest.xml:47:21-47
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /home/nits/.gradle/caches/transforms-2/files-2.1/83d7e902ef21ea6c60433b711bf3a990/AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /home/nits/.gradle/caches/transforms-2/files-2.1/83d7e902ef21ea6c60433b711bf3a990/AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /home/nits/.gradle/caches/transforms-2/files-2.1/83d7e902ef21ea6c60433b711bf3a990/AndroidManifest.xml:12:13-84
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/ba5fdc679d28c5bd99e5c3445fefafd3/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/ba5fdc679d28c5bd99e5c3445fefafd3/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/ba5fdc679d28c5bd99e5c3445fefafd3/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/ba5fdc679d28c5bd99e5c3445fefafd3/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/ba5fdc679d28c5bd99e5c3445fefafd3/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/ba5fdc679d28c5bd99e5c3445fefafd3/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/ba5fdc679d28c5bd99e5c3445fefafd3/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/ba5fdc679d28c5bd99e5c3445fefafd3/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/ba5fdc679d28c5bd99e5c3445fefafd3/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] /home/nits/.gradle/caches/transforms-2/files-2.1/ba5fdc679d28c5bd99e5c3445fefafd3/AndroidManifest.xml:48:25-92
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/51e240f4a6e8f6747e22620201b54c50/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/51e240f4a6e8f6747e22620201b54c50/AndroidManifest.xml:26:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/bda77264d2b8c8a16ae74c1b2ce5f180/AndroidManifest.xml:9:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.0] /home/nits/.gradle/caches/transforms-2/files-2.1/bda77264d2b8c8a16ae74c1b2ce5f180/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/2b399b191965976e97396ba60237f7bb/AndroidManifest.xml:40:13-87
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/99691b117229782ffaf49dba7238def7/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:19.3.1] /home/nits/.gradle/caches/transforms-2/files-2.1/d9f4081532f218b7b2adedd746037fe1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:19.3.1] /home/nits/.gradle/caches/transforms-2/files-2.1/d9f4081532f218b7b2adedd746037fe1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /home/nits/.gradle/caches/transforms-2/files-2.1/cfa3ef558d3b9dc5ce8bf37afad8f6ae/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:16.2.1] /home/nits/.gradle/caches/transforms-2/files-2.1/cfa3ef558d3b9dc5ce8bf37afad8f6ae/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/nits/.gradle/caches/transforms-2/files-2.1/966e453fea2c90e535231722b0503d89/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/nits/.gradle/caches/transforms-2/files-2.1/966e453fea2c90e535231722b0503d89/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/99691b117229782ffaf49dba7238def7/AndroidManifest.xml:29:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/nits/.gradle/caches/transforms-2/files-2.1/966e453fea2c90e535231722b0503d89/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/nits/.gradle/caches/transforms-2/files-2.1/966e453fea2c90e535231722b0503d89/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/99691b117229782ffaf49dba7238def7/AndroidManifest.xml:28:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/99691b117229782ffaf49dba7238def7/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/99691b117229782ffaf49dba7238def7/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.4.3] /home/nits/.gradle/caches/transforms-2/files-2.1/99691b117229782ffaf49dba7238def7/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.1.5] /home/nits/.gradle/caches/transforms-2/files-2.1/a6d2bda98776fa261133ff4e4b82b7bc/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/nits/.gradle/caches/transforms-2/files-2.1/ee63c36fbaef4a1ae330729cfbc24213/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/nits/.gradle/caches/transforms-2/files-2.1/ee63c36fbaef4a1ae330729cfbc24213/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/nits/.gradle/caches/transforms-2/files-2.1/ee63c36fbaef4a1ae330729cfbc24213/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/nits/.gradle/caches/transforms-2/files-2.1/ee63c36fbaef4a1ae330729cfbc24213/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/nits/.gradle/caches/transforms-2/files-2.1/ee63c36fbaef4a1ae330729cfbc24213/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/nits/.gradle/caches/transforms-2/files-2.1/ee63c36fbaef4a1ae330729cfbc24213/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/nits/.gradle/caches/transforms-2/files-2.1/ee63c36fbaef4a1ae330729cfbc24213/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/nits/.gradle/caches/transforms-2/files-2.1/ee63c36fbaef4a1ae330729cfbc24213/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/nits/.gradle/caches/transforms-2/files-2.1/ee63c36fbaef4a1ae330729cfbc24213/AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.3.1] /home/nits/.gradle/caches/transforms-2/files-2.1/d9f4081532f218b7b2adedd746037fe1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.3.1] /home/nits/.gradle/caches/transforms-2/files-2.1/d9f4081532f218b7b2adedd746037fe1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.1] /home/nits/.gradle/caches/transforms-2/files-2.1/d9f4081532f218b7b2adedd746037fe1/AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/b851b62bba173704c1a61b104daae61a/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/b851b62bba173704c1a61b104daae61a/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/b851b62bba173704c1a61b104daae61a/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/b851b62bba173704c1a61b104daae61a/AndroidManifest.xml:24:13-79
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.2.1] /home/nits/.gradle/caches/transforms-2/files-2.1/cfa3ef558d3b9dc5ce8bf37afad8f6ae/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.2.1] /home/nits/.gradle/caches/transforms-2/files-2.1/cfa3ef558d3b9dc5ce8bf37afad8f6ae/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.2.1] /home/nits/.gradle/caches/transforms-2/files-2.1/cfa3ef558d3b9dc5ce8bf37afad8f6ae/AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /home/nits/.gradle/caches/transforms-2/files-2.1/966e453fea2c90e535231722b0503d89/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/nits/.gradle/caches/transforms-2/files-2.1/966e453fea2c90e535231722b0503d89/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/nits/.gradle/caches/transforms-2/files-2.1/966e453fea2c90e535231722b0503d89/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/nits/.gradle/caches/transforms-2/files-2.1/966e453fea2c90e535231722b0503d89/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/nits/.gradle/caches/transforms-2/files-2.1/966e453fea2c90e535231722b0503d89/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/94e9accf3a84b6127d77203914c154bf/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/94e9accf3a84b6127d77203914c154bf/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/nits/.gradle/caches/transforms-2/files-2.1/94e9accf3a84b6127d77203914c154bf/AndroidManifest.xml:24:13-58
+uses-permission#com.android.vending.BILLING
+ADDED from [com.android.billingclient:billing:2.0.3] /home/nits/.gradle/caches/transforms-2/files-2.1/0a0eefc70ae8e9a79741aa99794d76db/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [com.android.billingclient:billing:2.0.3] /home/nits/.gradle/caches/transforms-2/files-2.1/0a0eefc70ae8e9a79741aa99794d76db/AndroidManifest.xml:10:22-64
+meta-data#com.google.android.play.billingclient.version
+ADDED from [com.android.billingclient:billing:2.0.3] /home/nits/.gradle/caches/transforms-2/files-2.1/0a0eefc70ae8e9a79741aa99794d76db/AndroidManifest.xml:13:9-15:37
+	android:value
+		ADDED from [com.android.billingclient:billing:2.0.3] /home/nits/.gradle/caches/transforms-2/files-2.1/0a0eefc70ae8e9a79741aa99794d76db/AndroidManifest.xml:15:13-34
+	android:name
+		ADDED from [com.android.billingclient:billing:2.0.3] /home/nits/.gradle/caches/transforms-2/files-2.1/0a0eefc70ae8e9a79741aa99794d76db/AndroidManifest.xml:14:13-73
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [com.android.billingclient:billing:2.0.3] /home/nits/.gradle/caches/transforms-2/files-2.1/0a0eefc70ae8e9a79741aa99794d76db/AndroidManifest.xml:17:9-20:75
+	android:configChanges
+		ADDED from [com.android.billingclient:billing:2.0.3] /home/nits/.gradle/caches/transforms-2/files-2.1/0a0eefc70ae8e9a79741aa99794d76db/AndroidManifest.xml:19:13-96
+	android:theme
+		ADDED from [com.android.billingclient:billing:2.0.3] /home/nits/.gradle/caches/transforms-2/files-2.1/0a0eefc70ae8e9a79741aa99794d76db/AndroidManifest.xml:20:13-72
+	android:name
+		ADDED from [com.android.billingclient:billing:2.0.3] /home/nits/.gradle/caches/transforms-2/files-2.1/0a0eefc70ae8e9a79741aa99794d76db/AndroidManifest.xml:18:13-78
