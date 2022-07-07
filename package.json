@@ -16,7 +16,7 @@
     "@react-native-firebase/app": "^8.2.0",
     "@react-native-firebase/database": "^7.3.2",
     "@react-navigation/material-top-tabs": "^5.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-banner-carousel": "^1.0.3",
